@@ -1,0 +1,15 @@
+{
+    "name": "edwin/emicro-devtool",
+    "authors": [
+        {
+            "name": "edwin",
+            "email": "edwin.fan@foxmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EMicro": "src/"
+        }
+    }
+}
