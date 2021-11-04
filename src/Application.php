@@ -22,11 +22,12 @@ class Application
      */
     public function dispatcherNamespace($dispatcherDir){}
 
-    public function run(){}
+    public function run($handler){}
 
     /**
      * @return string
      */
     public function getAppPath(){}
+
 
 }

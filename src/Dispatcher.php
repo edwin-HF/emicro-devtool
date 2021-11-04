@@ -22,4 +22,14 @@ class Dispatcher
      */
     public function method(){}
 
+    /**
+     * @return string
+     */
+    public function route(){}
+
+    /**
+     * @return string
+     */
+    public function uri(){}
+
 }
