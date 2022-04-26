@@ -1,13 +1,9 @@
 <?php
 
-
 namespace EMicro;
 
-
-class Application
+class Command
 {
-
     public static function scan($path){}
-    public static function run($handler){}
-
+    public static function run($handler, $params){}
 }

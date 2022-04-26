@@ -1,13 +1,8 @@
 <?php
 
-
 namespace EMicro;
 
-
-class Application
+class Loader
 {
-
     public static function scan($path){}
-    public static function run($handler){}
-
 }
